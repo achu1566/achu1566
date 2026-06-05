@@ -131,23 +131,15 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=achu1566&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=achu1566&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu1566&layout=compact&theme=tokyonight"/>
-
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=achu1566&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=achu1566&theme=tokyonight"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=achu1566&theme=tokyonight)
 
 ---
 
@@ -155,7 +147,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 📧 Email: achuthan1566@gmail.com
 
-💼 LinkedIn: linkedin.com/in/achuthan-t-b-1522972a2/
+💼 LinkedIn: linkedin.com/in/achuthan-t-b-1522972a2
 
 💻 GitHub: https://github.com/achu1566
 
