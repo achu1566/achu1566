@@ -78,7 +78,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 🚀 Featured Projects
 
-### 🎯 VCET CSE Placement Management System (Team Leader)
+### VCET CSE Placement Management System (Team Leader)
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Chart.js, JWT
 
@@ -88,9 +88,12 @@ Passionate about building scalable web applications, solving real-world problems
 - Created analytical dashboards using Chart.js.
 - Automated student data handling and placement tracking.
 
+Github : https://github.com/nagavishnu-05/VCET-Placement-Project
+Live Demo : https://vcet-placement-portal.vercel.app
+
 ---
 
-### 💰 INEX Tracker – Income & Expense Tracker
+### INEX Tracker – Income & Expense Tracker
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Chart.js, JWT
 
@@ -99,15 +102,21 @@ Passionate about building scalable web applications, solving real-world problems
 - Built dashboards to visualize financial trends.
 - Managed income and expense tracking with real-time updates.
 
+Github : https://github.com/achu1566/Personal-Income-Expanse-Tracker
+Live Demo : https://personalexpensetracker-4.onrender.com
+
 ---
 
-### 🤖 Color IQ – AI Color Prediction System
+### OrbitEd – AI-Powered Student Profiling and Career Guidance System
 
-**Tech Stack:** Python, Pandas, NumPy, Machine Learning
+**Tech Stack:** React.js, Node.js, Express.js, Python, Scikit-learn, Tailwind CSS, Recharts
 
-- Developed an AI model that predicts color names from RGB values.
-- Processed and analyzed 100+ color samples.
-- Implemented Logistic Regression and Random Forest models.
+- Developed an AI-powered career prediction platform using K-Means Clustering to analyze student academic and skill profiles.
+- Built interactive dashboards using Recharts to visualize career cluster insights.
+- Integrated React frontend, Node.js backend, and Python prediction services into a deployed full-stack application.
+  
+Github : https://github.com/achu1566/AI-Powered-StudentCareerPathPredictor
+Live Demo : https://orbit-edstudentcareerpathpredictor.vercel.app
 
 ---
 
