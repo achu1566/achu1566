@@ -57,12 +57,6 @@ I am a **quick learner**, **adaptable**, and always curious to explore new techn
 - Built a web application to track income and expenses with secure authentication.
 - Created analytics dashboards to visualize spending trends and financial data.
 
-### 3. Placement Management System (Internship Project)
-**Tech Stack:** React, Node.js, Express, MongoDB, XLSX
-
-- Worked on student data upload, company management, and placement tracking modules.
-- Automated Excel data import for 1,000+ student records, reducing manual entry.
-
 ### 4. Color IQ – AI Internship Project
 **Tech Stack:** Python, Pandas, NumPy, Logistic Regression, Random Forest
 
@@ -92,10 +86,10 @@ I am a **quick learner**, **adaptable**, and always curious to explore new techn
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- LeetCode: [Your LeetCode]
-- Email: [Your Email]
+- Email: achuthan1566@gmail.com
+- LinkedIn: https://www.linkedin.com/in/achuthan-t-b-1522972a2/
+- GitHub: https://github.com/achu1566
+- LeetCode: https://leetcode.com/u/achu1506/
 
 ---
 
