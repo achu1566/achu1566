@@ -122,11 +122,11 @@ Live Demo : https://orbit-edstudentcareerpathpredictor.vercel.app
 
 ## Profiles
 
+<p align="left">
 <a href="https://achu-portfolio-website.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<p align="left">
 <a href="https://leetcode.com/u/achu1506">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
