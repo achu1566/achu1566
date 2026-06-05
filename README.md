@@ -147,7 +147,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 📧 Email: achuthan1566@gmail.com
 
-💼 LinkedIn: linkedin.com/in/achuthan-t-b-1522972a2
+💼 LinkedIn: https://linkedin.com/in/achuthan-t-b-1522972a2
 
 💻 GitHub: https://github.com/achu1566
 
