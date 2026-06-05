@@ -1,96 +1,168 @@
-# Hi, I'm Achuthan T B 👋
+<h1 align="center">Hi 👋, I'm Achuthan T B</h1>
 
-## Full Stack Developer | Team Lead | Backend Developer
+<h3 align="center">
+Full Stack Developer | Team Leader | Backend Developer
+</h3>
 
-I am a Computer Science Engineering student and a passionate Full Stack Developer with hands-on experience in building web applications using **React.js, Node.js, Express.js, MongoDB, and MySQL**. I enjoy solving real-world problems through clean, scalable, and practical software solutions.
-
-I had the opportunity to **lead a 7-member team** in developing a **Placement Management System**, where I worked mainly on backend development, Excel data handling, API integration, and database design. I also built an **Income and Expense Tracker** to strengthen my skills in CRUD operations, authentication, and data visualization.
-
-I am a **quick learner**, **adaptable**, and always curious to explore new technologies. My goal is to grow as a software engineer, contribute to impactful products, and continuously improve both technically and professionally.
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.
+</p>
 
 ---
 
-## 🚀 What I Work With
+## 🚀 About Me
 
-### Languages
-- Java
-- JavaScript
-- C
-- SQL
+🎓 Computer Science Engineering Student at **Velammal College of Engineering and Technology**
+
+💻 Full Stack Developer specializing in **React.js, Node.js, Express.js, MongoDB, and MySQL**
+
+👨‍💼 Led a **7-member team** in developing a Placement Management System
+
+🧠 Solved **300+ LeetCode Problems**
+
+🏆 Winner of **Symposolve Inter-College Hackathon**
+
+🌱 Currently learning **Advanced Backend Development, DSA, Cloud Technologies, and System Design**
+
+🎯 Goal: To become a highly skilled Software Engineer capable of building scalable and impactful applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,python" />
+</p>
 
 ### Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
 
-### Databases
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
 
----
-
-## 💡 Featured Projects
-
-### 1. VCET CSE Placement Project | Team Leader
-**Tech Stack:** React, Node.js, Express, MongoDB, Chart.js, JWT
-
-- Built a recruitment website to manage student data and track candidate progress in real time.
-- Developed visual dashboards using REST APIs and Chart.js to track placement trends.
-- Led a 7-member team and contributed mainly to backend development and integration.
-
-### 2. INEX Tracker – Income and Expense Tracker
-**Tech Stack:** React, Node.js, Express, MongoDB, Chart.js, JWT
-
-- Built a web application to track income and expenses with secure authentication.
-- Created analytics dashboards to visualize spending trends and financial data.
-
-### 4. Color IQ – AI Internship Project
-**Tech Stack:** Python, Pandas, NumPy, Logistic Regression, Random Forest
-
-- Built an AI-based application to predict color names from RGB values.
-- Processed color samples and trained classification models with strong accuracy.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- Won **1st Place** at the **Symposolve Hackathon**.
-- Solved **300+ LeetCode problems** across DSA topics.
-- Led a **7-member team** during a full-stack placement project.
-- Completed internships in **Full Stack Development** and **Artificial Intelligence / Machine Learning**.
+🥇 Winner – Symposolve Inter-College Hackathon
+
+📚 Solved 300+ LeetCode Problems
+
+👨‍💻 Led a 7-Member Development Team
+
+🎓 Completed Full Stack Development Internship
+
+🤖 Completed AI & Machine Learning Internship
 
 ---
 
-## 🎯 Currently Focusing On
+## 🚀 Featured Projects
 
-- Strengthening **DSA**
-- Improving **backend development**
-- Deepening **SQL and DBMS**
-- Practicing **technical interviews**
-- Learning new technologies with continuous curiosity
+### 🎯 VCET CSE Placement Management System (Team Leader)
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Chart.js, JWT
+
+- Led a 7-member team in developing a full-stack placement management platform.
+- Built REST APIs for student, company, and placement management.
+- Implemented JWT Authentication and Authorization.
+- Created analytical dashboards using Chart.js.
+- Automated student data handling and placement tracking.
+
+---
+
+### 💰 INEX Tracker – Income & Expense Tracker
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Chart.js, JWT
+
+- Developed a secure finance management application.
+- Implemented JWT-based authentication.
+- Built dashboards to visualize financial trends.
+- Managed income and expense tracking with real-time updates.
+
+---
+
+### 🤖 Color IQ – AI Color Prediction System
+
+**Tech Stack:** Python, Pandas, NumPy, Machine Learning
+
+- Developed an AI model that predicts color names from RGB values.
+- Processed and analyzed 100+ color samples.
+- Implemented Logistic Regression and Random Forest models.
+
+---
+
+## 📈 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/achu1506">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/achu1566">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/achuthan-t-b-1522972a2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=achu1566&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu1566&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=achu1566&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: achuthan1566@gmail.com
-- LinkedIn: https://www.linkedin.com/in/achuthan-t-b-1522972a2/
-- GitHub: https://github.com/achu1566
-- LeetCode: https://leetcode.com/u/achu1506/
+📧 Email: achuthan1566@gmail.com
+
+💼 LinkedIn: linkedin.com/in/achuthan-t-b-1522972a2/
+
+💻 GitHub: https://github.com/achu1566
+
+🧩 LeetCode: https://leetcode.com/u/achu1506
 
 ---
 
-> “I believe in learning by building, improving by practice, and growing through consistency.”
+<h3 align="center">
+💡 "I believe in learning by building, improving through consistency, and growing through challenges."
+</h3>
